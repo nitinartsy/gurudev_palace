@@ -5,6 +5,7 @@ const Featured = () => {
   return (
     <>
       <section class="ftco-section goto-here" style={{ marginTop: "4rem" }}>
+
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-12 heading-section text-center  mb-5">

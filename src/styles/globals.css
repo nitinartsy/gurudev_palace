@@ -1,0 +1,29 @@
+.mppl-img {
+    width: 85%;
+    margin: auto;
+}
+
+.mppl-img img {
+    width: 100%;
+}
+
+.hotel-wrap {
+    justify-content: center;
+}
+
+.startingfrom {
+    margin-right: 10px;
+}
+
+.ul-ament {
+    display: flex;
+    flex-direction: column;
+    font-size: 13px !important;
+    color: black !important;
+}
+
+
+.customwith {
+    width: fit-content !important;
+    padding: 10px;
+}

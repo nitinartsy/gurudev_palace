@@ -53,6 +53,10 @@ const Neighbourhood = () => {
         </div> */}
            <section class="ftco-counter img" id="section-counter">
       <GridGallery/>
+
+      <div className="mppl-img">
+            <img src="/images/mappl.png" alt="" />
+          </div>
     </section>
       </div>
     </section>

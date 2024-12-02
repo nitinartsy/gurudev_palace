@@ -6,6 +6,7 @@ import Featured from "./Featured";
 import About from "./About";
 import Blog from "./Blog";
 import Testimonials from "./Testimonials";
+import OurHotels from "./OurHotels";
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Banner />
       <Neighbourhood />
       <ChooseUs />
+      <OurHotels/>
       <Featured />
       <About />
       {/* <Blog /> */}
