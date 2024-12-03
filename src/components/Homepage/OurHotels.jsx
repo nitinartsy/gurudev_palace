@@ -8,6 +8,11 @@ const OurHotels = () => {
   const handleProp1 = () => {
     router.push('/gurudev_palace')
   }
+
+
+  const handleProp2 = () => {
+    router.push('/hotelkunjProperties')
+  }
   
   return (
     <>
@@ -65,7 +70,7 @@ const OurHotels = () => {
                 </div>
               </div>
             </div>
-            <div onClick={handleProp1} class="col-md-6">
+            <div onClick={handleProp2} class="col-md-6">
               <div class="property-wrap">
                 
                 <a

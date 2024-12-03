@@ -1,8 +1,7 @@
 import React from "react";
 import Link from "next/link";
-import RoomCards from "../RoomCards";
 
-const HotelPlaceProperties = () => {
+const HotelkunjProperties = () => {
   return (
     <>
       <section
@@ -78,10 +77,11 @@ const HotelPlaceProperties = () => {
                         </ul> */}
 
                   <h3>
-                    <a href="#">Gurudev Palace</a>
+                    <a href="#">GURUDEV KUNJ
+                    </a>
                   </h3>
                   <span class="location">
-                    Family Deluxe Room
+                  Premium Suite
                   </span>
                   <a
                     href="#"
@@ -129,10 +129,10 @@ const HotelPlaceProperties = () => {
                         </ul> */}
 
                   <h3>
-                    <a href="#">Gurudev Palace</a>
+                    <a href="#">GURUDEV KUNJ                    </a>
                   </h3>
                   <span class="location">
-                  Family Standard Room
+                  Premium Room
                   </span>
                   <a
                     href="#"
@@ -187,4 +187,4 @@ const HotelPlaceProperties = () => {
   );
 };
 
-export default HotelPlaceProperties;
+export default HotelkunjProperties;
