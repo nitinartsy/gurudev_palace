@@ -35,16 +35,16 @@ const OurHotels = () => {
                   style={{ backgroundImage: `url('/images/hotel1.png')` }}
                 ></a>
                 <div class="text textw">
-                <p class="price">
+                {/* <p class="price">
                     <span className="startingfrom" > Starting from</span>
                     <span class="orig-price">
                       ₹ 3,050
                     </span>
-                  </p>
+                  </p> */}
                 <h3>
                     <a href="#">Gurudev Palace</a>
                   </h3>
-                  <span class="location">Civil line, Ayodhya</span>
+                  {/* <span class="location">Civil line, Ayodhya</span> */}
                   <a
                     href="#"
                     class="d-flex align-items-center justify-content-center btn-custom customwith"
@@ -58,14 +58,14 @@ const OurHotels = () => {
                     </span>
                   </a>
              
-                  <ul class="ul-ament">
+                  {/* <ul class="ul-ament">
                     <li>
                       Family Deluxe Room
                     </li>
                     <li>
                       Family Standard Room
                     </li>
-                  </ul>
+                  </ul> */}
                 
                 </div>
               </div>
@@ -76,19 +76,19 @@ const OurHotels = () => {
                 <a
                   href="#"
                   class="img imgg"
-                  style={{ backgroundImage: `url('https://content3.jdmagicbox.com/comp/ayodhya/m5/9999px527.x527.201017175927.s4m5/catalogue/gurudev-palace-civil-line-ayodhya-hotels-f940rwymm5.jpg')` }}
+                  style={{ backgroundImage: `url('/images/kunj.png')` }}
                 ></a>
                 <div class="text textw">
-                <p class="price">
+                {/* <p class="price">
                     <span className="startingfrom" > Starting from</span>
                     <span class="orig-price">
                       ₹ 3,050
                     </span>
-                  </p>
+                  </p> */}
                 <h3>
                     <a href="#">GURUDEV KUNJ</a>
                   </h3>
-                  <span class="location">Civil line, Ayodhya</span>
+                  {/* <span class="location">Civil line, Ayodhya</span> */}
                   <a
                     href="#"
                     class="d-flex align-items-center justify-content-center btn-custom customwith"
@@ -102,7 +102,7 @@ const OurHotels = () => {
                     </span>
                   </a>
              
-                  <ul class="ul-ament">
+                  {/* <ul class="ul-ament">
                     <li>
                     Premium Suite
                     
@@ -110,7 +110,7 @@ const OurHotels = () => {
                     <li>
                     Premium Room
                     </li>
-                  </ul>
+                  </ul> */}
                 
                 </div>
               </div>

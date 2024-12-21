@@ -10,7 +10,7 @@ const About = () => {
             <div
               class="col-md-6 p-md-5 img img-2 d-flex justify-content-center align-items-center"
               style={{
-                backgroundImage: `url(https://content.jdmagicbox.com/comp/faizabad/m5/9999px527.x527.201017175927.s4m5/catalogue/gurudev-palace-faizabad-city-faizabad-hotels-3pa2bn02j2.jpg)`,
+                backgroundImage: `url(/images/g5.jpeg) !important`,
                 borderRadius: "25px",
               }}
             ></div>

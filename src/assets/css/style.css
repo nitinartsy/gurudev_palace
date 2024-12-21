@@ -12752,7 +12752,7 @@ h5,
 }
 
 .services-section .bg-cover {
-  background-image: url('https://q-xx.bstatic.com/xdata/images/hotel/max500/516045445.jpg?k=f47c416bc9f36e1b456b4963907f353164715843eef8b7301387f8159acbada3&o=');
+  background-image: url('/images/servicesig.jpeg');
   border-radius: 30px;
   background-position: center;
   background-size: cover;

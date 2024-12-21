@@ -27,8 +27,7 @@ const HotelkunjProperties = () => {
                 </span>
               </p>
               <h1 className="mb-3 bread">
-                Choose <br />
-                Your Desired Room
+                 Gurudev Kunj
               </h1>
             </div>
           </div>
@@ -49,7 +48,7 @@ const HotelkunjProperties = () => {
 
       <section className="ftco-section">
         <div className="container">
-          <div className="row">
+          <div className="row justify-content-center">
             <div class="col-md-4">
               <div class="property-wrap">
                 <a
@@ -59,10 +58,11 @@ const HotelkunjProperties = () => {
                 ></a>
                 <div class="text">
                   <p class="price">
-                    <span class="old-price">₹ 800,000</span>
+                    {/* <span class="old-price">₹ 800,000</span> */}
                     <span class="orig-price">
-                      ₹ 3,050
+                      ₹ 3,500 <span class="incl-taxes">(incl. taxes)</span>
                     </span>
+
                   </p>
                   {/* <ul class="property_list">
                             <li>
@@ -77,11 +77,11 @@ const HotelkunjProperties = () => {
                         </ul> */}
 
                   <h3>
-                    <a href="#">GURUDEV KUNJ
+                    <a href="#">Premium room
                     </a>
                   </h3>
                   <span class="location">
-                  Premium Suite
+                  GURUDEV KUNJ
                   </span>
                   <a
                     href="#"
@@ -111,9 +111,9 @@ const HotelkunjProperties = () => {
                 ></a>
                 <div class="text">
                   <p class="price">
-                    <span class="old-price">₹ 800,000</span>
+                    {/* <span class="old-price">₹ 800,000</span> */}
                     <span class="orig-price">
-                      ₹ 3,050
+                      ₹ 5,000 <span class="incl-taxes">(incl. taxes)</span>
                     </span>
                   </p>
                   {/* <ul class="property_list">
@@ -129,10 +129,10 @@ const HotelkunjProperties = () => {
                         </ul> */}
 
                   <h3>
-                    <a href="#">GURUDEV KUNJ                    </a>
+                    <a href="#">Premium suite room</a>
                   </h3>
                   <span class="location">
-                  Premium Room
+                  GURUDEV KUNJ
                   </span>
                   <a
                     href="#"
@@ -152,7 +152,7 @@ const HotelkunjProperties = () => {
 
 
           </div>
-          <div className="row mt-5">
+          {/* <div className="row mt-5">
             <div className="col text-center">
               <div className="block-27">
                 <ul>
@@ -180,7 +180,7 @@ const HotelkunjProperties = () => {
                 </ul>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
     </>

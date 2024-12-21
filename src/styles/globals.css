@@ -27,3 +27,11 @@
     width: fit-content !important;
     padding: 10px;
 }
+
+
+.incl-taxes {
+    font-size: 0.9em;
+    color: gray;
+    margin-left: 5px;
+  }
+  
