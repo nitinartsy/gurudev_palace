@@ -4,7 +4,7 @@ import GridGallery from "../GridGallery";
 const About = () => {
   return (
     <>
-      <section class="ftco-section ftco-no-pb" style={{ marginBottom: "15rem" }}>
+      <section id="about" class="ftco-section ftco-no-pb" style={{ marginBottom: "15rem" }}>
         <div class="container">
           <div class="row no-gutters">
             <div

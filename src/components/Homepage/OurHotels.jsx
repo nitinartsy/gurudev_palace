@@ -16,7 +16,7 @@ const OurHotels = () => {
   
   return (
     <>
-      <section class="ftco-section goto-here" style={{ marginTop: "4rem" }}>
+      <section id="ourHotels" class="ftco-section goto-here" style={{ marginTop: "4rem" }}>
 
         <div class="container">
           <div class="row justify-content-center">
